@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
-<h3>My Stats</h3>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=abmath113&show_icons=true&theme=tokyonight" alt="Abhishek's GitHub Stats"> </P>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tydos&show_icons=true&locale=en" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tydos"  /></p>
