@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Thorat</h1>
-<h3 align="center"> Aspiring Full Stack developer and AI/ML enthusiast from India</h3>
+<h3 align="center"> Aspiring Full Stack developer and AI/ML enthusiast </h3>
 <p>I'm a Junior at VESIT Mumbai, Majoring in Artificial Intelligence and Data Science. I'm exploring and mastering various computer science languages like C++, Java,HTML,CSS, PYTHON. I'm a keen learner and eager to communicate and network.
 
  I'm also a Physics and Philosophy aficionado and Photography and Consumer tech enthusiast.
