@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Thorat</h1>
 <h3 align="center"> Aspiring Full Stack developer and AI/ML enthusiast </h3>
-<p>I'm a Junior at VESIT Mumbai, Majoring in Artificial Intelligence and Data Science. I'm exploring and mastering various domains of computer science and languages like Java,HTML,CSS, Python,C++,. I'm a keen learner and eager to communicate and network.
+<p>I am passionate about creating meaningful software solutions that solve real-world problems and enhance user experiences. Collaboration is at the core of my work, and I thoroughly enjoy working with fellow developers to tackle challenging projects and transform ideas into reality.
 
- I'm also a Photography and Consumer tech enthusiast and Physics & Philosophy aficionado.
-When not working I spent time playing Chess.</p>
+My work primarily revolves around machine learning, android development, and web development. I find delight in leveraging technology to innovate and push boundaries in these areas.
+
+I am excited to explore new opportunities and see where they take me.</p>
 
 
 
