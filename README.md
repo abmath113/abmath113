@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Thorat</h1>
-<h3 align="center"> Aspiring Full Stack developer and AI/ML enthusiast </h3>
-<p>I am passionate about creating meaningful software solutions that solve real-world problems and enhance user experiences. Collaboration is at the core of my work, and I thoroughly enjoy working with fellow developers to tackle challenging projects and transform ideas into reality.
+<h1 align="center" style="font-size: 28px; font-weight: 300;"> Aspiring Full Stack Developer and AI/ML Enthusiast </h1>
+<p style="font-size: 18px; font-weight: 300; line-height: 1.5;">
+    I am passionate about creating meaningful software solutions that solve real-world problems and enhance user experiences. Collaboration is at the core of my work, and I thoroughly enjoy working with fellow developers to tackle challenging projects and transform ideas into reality.
+    <br><br>
+    My work primarily revolves around machine learning, Android development, and web development. I find delight in leveraging technology to innovate and push boundaries in these areas.
+    <br><br>
+    I am excited to explore new opportunities and see where they take me.
+</p>
 
-My work primarily revolves around machine learning, android development, and web development. I find delight in leveraging technology to innovate and push boundaries in these areas.
-
-I am excited to explore new opportunities and see where they take me.</p>
 
 
 
